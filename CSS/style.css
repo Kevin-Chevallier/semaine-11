@@ -1,0 +1,23 @@
+body {
+    background-color : #B8B8B8;
+}
+
+
+#proposition {
+    position : center;
+    text-align : center;
+    margin: 10px;
+    height: 20px;
+    padding-left: 0.5em;
+}
+#bouton {
+    height: 30px;
+    width: 120px;
+    text-align : center;
+}
+#resultat {
+   
+    line-height: 20px;
+    text-align : center;
+    
+}
